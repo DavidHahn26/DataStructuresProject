@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5118c002-91b9-4f34-8271-bb7504f02a52" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage5/impl/DocumentPersistenceManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage5/impl/DocumentPersistenceManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage5/impl/DocumentStoreImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage5/impl/DocumentStoreImplTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2POITst6lCuv3p7nAIrq6wIzdWg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shimm/Documents/School/Spring 2023/Data Structures/DataStructures/MainFolder/David_Hahn_800690946/DataStructures/project/stage5&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.yu.cs.com1320.project.impl" />
+      <recent name="edu.yu.cs.com1320.project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DocumentStoreImplTest">
+    <configuration name="DocumentPersistenceManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Stage5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage5.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.impl.DocumentPersistenceManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentPersistenceManagerTest.FileDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Stage5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage5.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.impl.DocumentPersistenceManagerTest" />
+      <option name="METHOD_NAME" value="FileDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentPersistenceManagerTest.FileRead" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Stage5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage5.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.impl.DocumentPersistenceManagerTest" />
+      <option name="METHOD_NAME" value="FileRead" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentStoreImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Stage5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage5.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentStoreImplTest.testPutNewVersionOfDocumentBinary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Stage5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage5.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" />
+      <option name="METHOD_NAME" value="testPutNewVersionOfDocumentBinary" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DocumentStoreImplTest" />
+        <item itemvalue="JUnit.DocumentPersistenceManagerTest" />
+        <item itemvalue="JUnit.DocumentStoreImplTest.testPutNewVersionOfDocumentBinary" />
+        <item itemvalue="JUnit.DocumentPersistenceManagerTest.FileDelete" />
+        <item itemvalue="JUnit.DocumentPersistenceManagerTest.FileRead" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5118c002-91b9-4f34-8271-bb7504f02a52" name="Changes" comment="" />
+      <created>1683321716454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683321716454</updated>
+      <workItem from="1683321717622" duration="1795000" />
+      <workItem from="1683323599359" duration="18210000" />
+      <workItem from="1683833504353" duration="15255000" />
+      <workItem from="1684175672693" duration="79683000" />
+      <workItem from="1684853660370" duration="2570000" />
+      <workItem from="1684876576774" duration="1854000" />
+      <workItem from="1685553207674" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="a1480af0-b817-483e-ba01-2ea31a8ece8d">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/shimm/Documents/School/Spring 2023/Data Structures/DataStructures/MainFolder/David_Hahn_800690946/DataStructures/project/stage5/src/test" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="a1480af0-b817-483e-ba01-2ea31a8ece8d" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+</project>
